@@ -1,0 +1,52 @@
+#1: republic city, southern water tribe
+#2: pro-bending arena, air temple island
+#3: republic city, air temple island
+#4: republic city, air temple island, future industries
+#5: republic city, pro-bending arena, air temple island
+#6: republic city, future industries, pro-bending arena, city hall
+#7: republic city, air temple island
+#8: republic city, air temple island, city hall
+#9: republic city, city hall, city hall
+#10: republic city, air temple island
+#11: republic city, air temple island, republic city
+#12: pro-bending arena, southern water tribe, republic city
+#13: southern water tribe, republic city
+#14: southern water tribe, southern spirit portal
+#15: southern water tribe, air temple island
+#16: southern water tribe, air temple island
+#17: republic city
+#18: republic city, rocky bottom
+#19: fire lion turtle, spirit wilds, air lion turtle
+#20: spirit wilds, fire lion turtle
+#21: air temple island, meditation sanctuary
+#22: spirit world, wan shi tong’s library, spirit portals
+#23: republic city, air temple island, pro-bending arena
+#24: the zhu li, southern water tribe, northern water tribe
+#25: spirit portals, fog of lost souls, spirit world
+#26: spirit portals, tree of time, republic city, southern water tribe 
+#27: air temple island, republic city wilds, republic city, zaheer’s prison
+#28: ghazan’s prison, earth kingdom, ming hua’s prison
+#29: ba sing se, northern water tribe, p’li’s prison, queen’s palace, underground ba sing se
+#30: p’li’s prison, underground ba sing se, ba sing se, queen’s palace
+#31: air temple island, zaofu
+#32: zao fu, republic city
+#33: northern air temple
+#34: zaofu
+#35: si wong desert, xai bau’s grove, misty palms oasis
+#36: queen’s palace, si wong desert, ba sing se, underground ba sing se
+#37: lower ring, ba sing se
+#38: laghima’s peak, northern air temple
+#39: air nomad caves, air temple island
+#40: republic city, yai, air temple island
+#41: southern water tribe, coastal village, earth kingdom fighting ring, tree of time
+#42: republic city, the swamp
+#43: the swamp, earth kingdom village
+#44: zaofu
+#45: zaofu
+#46: republic city, sato mansion, earth empire checkpoint 
+#47: sato mansion
+#48: spirit wilds, republic city, zaheer’s underground prison
+#49: zaofu, beifong’s prison
+#50: zaofu, united republic border, republic city, asami’s factory
+#51: asami’s factory, republic city
+#52: spirit portal, air temple island, republic city, kuvira’s mech
